@@ -83,7 +83,7 @@ function crearInstanciaPersona(nombre, apellido, edad, dir) {
   //Recibirá los valores "Juan", "Perez", 22, "Saavedra 123" para sus respectivas propiedades
   //Devolver la nueva persona creada
   var nuevapersona = new persona (nomre, apellido, edad, dir)
-    return nuevapersona
+    return nuevapersona;
   
  
 
